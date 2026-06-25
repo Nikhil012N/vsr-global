@@ -1,0 +1,359 @@
+{
+  "user": {
+    "name": "Rick",
+    "email": "rick@example.com",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop"
+  },
+  "files": [
+    {
+      "id": 1,
+      "fileNumber": "#53772837",
+      "type": "Buyer",
+      "name": "Singh, Amrik/Arora, Navi p/f Jagga",
+      "address": "123 Main Street, Toronto, ON",
+      "fileOpening": "Mar 11, 2024",
+      "requisitions": "Nov 11, 2024",
+      "closing": "Nov 21, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Buyer",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-03-11",
+        "actingFor": "Buyer",
+        "barristerSolicitorName": "John Smith",
+        "clerkName": "Sarah Johnson",
+        "witnessNotaryName": "Michael Brown",
+        "commissionerName": "David Lee",
+        "parties": ["Singh, Amrik", "Arora, Navi"],
+        "property": "123 Main Street, Toronto, ON M5H 2R2",
+        "solicitor": "Johnson & Associates",
+        "brokerage": "Century 21",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 2,
+      "fileNumber": "#53772838",
+      "type": "Seller",
+      "name": "Jagga, Navi s/t Singh/Arora",
+      "address": "456 Oak Avenue, Vancouver, BC",
+      "fileOpening": "Dec 3, 2023",
+      "requisitions": "Nov 11, 2024",
+      "closing": "Nov 21, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Seller",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2023-12-03",
+        "actingFor": "Seller",
+        "barristerSolicitorName": "Emily Davis",
+        "clerkName": "James Wilson",
+        "witnessNotaryName": "Patricia Miller",
+        "commissionerName": "Robert Taylor",
+        "parties": ["Jagga, Navi", "Singh"],
+        "property": "456 Oak Avenue, Vancouver, BC V6B 4X8",
+        "solicitor": "Davis Legal Group",
+        "brokerage": "Royal LePage",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 3,
+      "fileNumber": "#53772839",
+      "type": "Mortgagor",
+      "name": "Singh, Amrik/Arora, Navi m/t HDFC",
+      "address": "789 Pine Road, Calgary, AB",
+      "fileOpening": "Nov 11, 2024",
+      "requisitions": "Nov 11, 2024",
+      "closing": "Nov 21, 2024",
+      "status": "Pending",
+      "details": {
+        "fileType": "Mortgagor",
+        "fileStatus": "Pending",
+        "conflictSearchDate": "2024-11-11",
+        "actingFor": "Mortgagor",
+        "barristerSolicitorName": "Thomas Anderson",
+        "clerkName": "Lisa Martin",
+        "witnessNotaryName": "Steven Jones",
+        "commissionerName": "George Brown",
+        "parties": ["Singh, Amrik", "Arora, Navi"],
+        "property": "789 Pine Road, Calgary, AB T2P 5J2",
+        "solicitor": "Anderson & Partners",
+        "brokerage": "Re/Max",
+        "checklist": "In Progress"
+      }
+    },
+    {
+      "id": 4,
+      "fileNumber": "#53772840",
+      "type": "Buyer",
+      "name": "Thompson, Robert p/f Purchase",
+      "address": "321 Elm Street, Montreal, QC",
+      "fileOpening": "Oct 15, 2024",
+      "requisitions": "Nov 5, 2024",
+      "closing": "Nov 20, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Buyer",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-10-15",
+        "actingFor": "Buyer",
+        "barristerSolicitorName": "Catherine White",
+        "clerkName": "Mark Garcia",
+        "witnessNotaryName": "Jennifer Lee",
+        "commissionerName": "Richard Harris",
+        "parties": ["Thompson, Robert"],
+        "property": "321 Elm Street, Montreal, QC H2X 1Y9",
+        "solicitor": "White Legal Solutions",
+        "brokerage": "Sotheby's",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 5,
+      "fileNumber": "#53772841",
+      "type": "Seller",
+      "name": "Kumar, Priya s/t Estate Sale",
+      "address": "654 Maple Drive, Ottawa, ON",
+      "fileOpening": "Sep 20, 2024",
+      "requisitions": "Nov 8, 2024",
+      "closing": "Nov 22, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Seller",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-09-20",
+        "actingFor": "Seller",
+        "barristerSolicitorName": "Michael Khan",
+        "clerkName": "Amanda Green",
+        "witnessNotaryName": "Christopher Smith",
+        "commissionerName": "William Moore",
+        "parties": ["Kumar, Priya"],
+        "property": "654 Maple Drive, Ottawa, ON K1Y 3A1",
+        "solicitor": "Khan & Associates",
+        "brokerage": "Engel & Völkers",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 6,
+      "fileNumber": "#53772842",
+      "type": "Buyer",
+      "name": "Zhang, Wei p/f Investment",
+      "address": "987 Birch Lane, Edmonton, AB",
+      "fileOpening": "Aug 10, 2024",
+      "requisitions": "Nov 10, 2024",
+      "closing": "Nov 25, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Buyer",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-08-10",
+        "actingFor": "Buyer",
+        "barristerSolicitorName": "David Zhang",
+        "clerkName": "Emma Brown",
+        "witnessNotaryName": "Andrew Davis",
+        "commissionerName": "Matthew Taylor",
+        "parties": ["Zhang, Wei"],
+        "property": "987 Birch Lane, Edmonton, AB T5J 2H1",
+        "solicitor": "Zhang Legal Services",
+        "brokerage": "Keller Williams",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 7,
+      "fileNumber": "#53772843",
+      "type": "Mortgagor",
+      "name": "Rodriguez, Carlos m/t RBC Mortgage",
+      "address": "147 Cedar Court, Winnipeg, MB",
+      "fileOpening": "Oct 1, 2024",
+      "requisitions": "Nov 12, 2024",
+      "closing": "Nov 28, 2024",
+      "status": "In Review",
+      "details": {
+        "fileType": "Mortgagor",
+        "fileStatus": "In Review",
+        "conflictSearchDate": "2024-10-01",
+        "actingFor": "Mortgagor",
+        "barristerSolicitorName": "Lucia Rodriguez",
+        "clerkName": "Peter Santos",
+        "witnessNotaryName": "Maria Garcia",
+        "commissionerName": "Carlos Lopez",
+        "parties": ["Rodriguez, Carlos"],
+        "property": "147 Cedar Court, Winnipeg, MB R3B 3P5",
+        "solicitor": "Rodriguez & Partners LLP",
+        "brokerage": "HomeLife",
+        "checklist": "In Progress"
+      }
+    },
+    {
+      "id": 8,
+      "fileNumber": "#53772844",
+      "type": "Seller",
+      "name": "Patel, Rajesh s/t Relocation",
+      "address": "258 Spruce Street, Quebec City, QC",
+      "fileOpening": "Jul 22, 2024",
+      "requisitions": "Nov 15, 2024",
+      "closing": "Nov 30, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Seller",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-07-22",
+        "actingFor": "Seller",
+        "barristerSolicitorName": "Rajesh Patel",
+        "clerkName": "Priya Kumar",
+        "witnessNotaryName": "Vikram Singh",
+        "commissionerName": "Anil Gupta",
+        "parties": ["Patel, Rajesh"],
+        "property": "258 Spruce Street, Quebec City, QC G1R 4P5",
+        "solicitor": "Patel Legal Group",
+        "brokerage": "Proprio Direct",
+        "checklist": "Completed"
+      }
+    },
+    {
+      "id": 9,
+      "fileNumber": "#53772845",
+      "type": "Buyer",
+      "name": "Thompson, Margaret p/f Estate",
+      "address": "369 Willow Way, Halifax, NS",
+      "fileOpening": "Nov 1, 2024",
+      "requisitions": "Nov 18, 2024",
+      "closing": "Dec 2, 2024",
+      "status": "Pending",
+      "details": {
+        "fileType": "Buyer",
+        "fileStatus": "Pending",
+        "conflictSearchDate": "2024-11-01",
+        "actingFor": "Buyer",
+        "barristerSolicitorName": "Margaret Thompson",
+        "clerkName": "David Wilson",
+        "witnessNotaryName": "Susan Miller",
+        "commissionerName": "James Harris",
+        "parties": ["Thompson, Margaret"],
+        "property": "369 Willow Way, Halifax, NS B3H 5A7",
+        "solicitor": "Thompson Estate Law",
+        "brokerage": "EXIT Realty",
+        "checklist": "Not Started"
+      }
+    },
+    {
+      "id": 10,
+      "fileNumber": "#53772846",
+      "type": "Mortgagor",
+      "name": "Smith, Jonathan m/t Scotia Bank",
+      "address": "741 Ash Avenue, Mississauga, ON",
+      "fileOpening": "Sep 15, 2024",
+      "requisitions": "Nov 20, 2024",
+      "closing": "Dec 5, 2024",
+      "status": "Active",
+      "details": {
+        "fileType": "Mortgagor",
+        "fileStatus": "Active",
+        "conflictSearchDate": "2024-09-15",
+        "actingFor": "Mortgagor",
+        "barristerSolicitorName": "Jonathan Smith",
+        "clerkName": "Kelly Adams",
+        "witnessNotaryName": "Robert Mitchell",
+        "commissionerName": "Thomas Bennett",
+        "parties": ["Smith, Jonathan"],
+        "property": "741 Ash Avenue, Mississauga, ON L5M 2H4",
+        "solicitor": "Smith & Associates",
+        "brokerage": "Sotheby's International",
+        "checklist": "Completed"
+      }
+    }
+  ],
+  "closings": [
+    {
+      "id": 1,
+      "fileName": "Singh, Amrik/Arora, Navi p/f Jagga...",
+      "number": "#53772837",
+      "type": "Buyer"
+    },
+    {
+      "id": 2,
+      "fileName": "Jagga, Navi s/t Singh/Arora",
+      "number": "#53772838",
+      "type": "Seller"
+    },
+    {
+      "id": 3,
+      "fileName": "Singh, Amrik/Arora, Navi m/t HDFC",
+      "number": "#53772839",
+      "type": "Mortgagor"
+    },
+    {
+      "id": 4,
+      "fileName": "Thompson, Robert p/f Purchase",
+      "number": "#53772840",
+      "type": "Buyer"
+    },
+    {
+      "id": 5,
+      "fileName": "Kumar, Priya s/t Estate Sale",
+      "number": "#53772841",
+      "type": "Seller"
+    }
+  ],
+  "requisitions": [
+    {
+      "id": 1,
+      "fileName": "Singh, Amrik/Arora, Navi p/f Jagga...",
+      "number": "#53772837",
+      "type": "Buyer"
+    },
+    {
+      "id": 2,
+      "fileName": "Jagga, Navi s/t Singh/Arora",
+      "number": "#53772838",
+      "type": "Seller"
+    },
+    {
+      "id": 3,
+      "fileName": "Singh, Amrik/Arora, Navi m/t HDFC",
+      "number": "#53772839",
+      "type": "Mortgagor"
+    },
+    {
+      "id": 4,
+      "fileName": "Thompson, Robert p/f Purchase",
+      "number": "#53772840",
+      "type": "Buyer"
+    }
+  ],
+  "sidebarItems": [
+    {
+      "id": 1,
+      "icon": "home",
+      "label": "Run Conflict",
+      "action": "run-conflict"
+    },
+    {
+      "id": 2,
+      "icon": "folder",
+      "label": "Open Files",
+      "action": "open-files"
+    },
+    {
+      "id": 3,
+      "icon": "briefcase",
+      "label": "Workstation",
+      "action": "workstation"
+    },
+    {
+      "id": 4,
+      "icon": "search",
+      "label": "Quick Search",
+      "action": "quick-search"
+    },
+    {
+      "id": 5,
+      "icon": "filter",
+      "label": "Advance Search",
+      "action": "advance-search"
+    }
+  ]
+}
